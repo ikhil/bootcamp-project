@@ -1,0 +1,11 @@
+Enter the city name: warangal
+---------------------------------------------------------------
+weather stats for - warangal || 23 jun 2021 | 02:22:32 PM
+---------------------------------------------------------------
+current temparature is :23.82 deg C
+current weather desc   :haze
+current humidity       :71%
+current wind speed     :2.14 kmph
+
+
+process finished exit code 0
